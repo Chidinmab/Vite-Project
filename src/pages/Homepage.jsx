@@ -21,7 +21,7 @@ const Homepage = () => {
       </div>
       <WhyGetResponse/>
 
-      <CaseStudy/>
+      <CaseStudy/> 
     </div>
   );
 };
